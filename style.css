@@ -4,11 +4,11 @@ body {
   margin: 0;
 }
 
-h1 {
+h1, figure{
   text-align: center;
 }
 
-figure {
+/*figure {
   margin: auto;
   width 90%;
-}
+}*/
