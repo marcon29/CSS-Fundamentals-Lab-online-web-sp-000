@@ -9,5 +9,6 @@ h1 {
 }
 
 figure {
-  margin: auto, auto;
+  margin: auto;
+  width 90%;
 }
