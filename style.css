@@ -22,3 +22,7 @@ figcaption {
   margin: 16px auto;
   text-align: center;
 }
+
+#details {
+  display: block;
+}
